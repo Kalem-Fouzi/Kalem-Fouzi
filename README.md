@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:A855F7,100:F472B6&height=220&section=header&text=Hi%20there,%20I'm%20Fouzi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:A855F7,100:F472B6&height=220&section=header&text=Hi%20there,%20Fouzi%20Here&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%26%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Self-taught+in+Data+Science+%26+Machine+Learning;Building+end-to-end+ML+projects+from+scratch;LightGBM+%2B+scikit-learn+%2B+SQL+%2B+pandas;Currently+leveling+up%3A+Unsupervised+Learning;Preparing+for+university+%F0%9F%8E%93" alt="Typing SVG" />
